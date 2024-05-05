@@ -1,4 +1,4 @@
-//Practical 3
+//Practical Week 3
 
 // Remember: This is a simplified example using an in-memory array. In a real-world scenario, you would use a database to store books data persistently.
 const books = [
