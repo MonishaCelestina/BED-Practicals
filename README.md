@@ -1,2 +1,2 @@
-# BEDWeek02
-BED Week 2 Practical
+# BED Practicals
+BED Practicals
