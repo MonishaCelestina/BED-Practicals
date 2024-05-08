@@ -1,6 +1,7 @@
 //Practical Week 3
 
 // Remember: This is a simplified example using an in-memory array. In a real-world scenario, you would use a database to store books data persistently.
+
 const books = [
   { id: 1, title: "The Lord of the Rings", author: "J.R.R. Tolkien" },
   { id: 2, title: "Pride and Prejudice", author: "Jane Austen" },
